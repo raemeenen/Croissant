@@ -1,3 +1,13 @@
 body {
   text-align: center;
+  background-color: rgb(183, 183, 227);
+}
+
+.navigation-links a {
+  margin: 0 10px;
+  color: rgb(132, 52, 52);
+}
+
+.croissant-photo {
+  border-radius: 10px;
 }
